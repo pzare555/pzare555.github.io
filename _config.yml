@@ -3,15 +3,15 @@ title: Pouya Zare
 description: 'Personal Card Page'
 url: 'http://pzare555.github.io'
 baseurl: ''
-profilepic: '/images/pouyazare.png'
+profilepic: '/images/pouyazare.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'js/fa.min.js'
+font_awesome: '2f62cda32a.js'
 
 author:
   name: 'Pouya Zare'
   email: pouya.zare.1680@gmail.com
-  github_username:  pzare555
+  github_username:  
   instagram_username: pouya_graphics_zare
 
 # Build settings
