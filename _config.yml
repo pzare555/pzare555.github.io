@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/pouyazare.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'js/fa.min.js'
 
 author:
   name: 'Pouya Zare'
